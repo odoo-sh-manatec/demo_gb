@@ -1,0 +1,4 @@
+[submodule "manaTec-GmbH/manatec_xmlrpc_groups"]
+	path = manaTec-GmbH/manatec_xmlrpc_groups
+	url = git@github.com:manaTec-GmbH/manatec_xmlrpc_groups.git
+	branch = main
